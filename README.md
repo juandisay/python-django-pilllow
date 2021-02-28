@@ -3,6 +3,7 @@ requirements:
 - Python 3.8.3
 - Django 3x
 - Pillow
+- Postgres
 
 
 you can pull via Docker HUB
