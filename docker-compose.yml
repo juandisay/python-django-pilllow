@@ -1,0 +1,6 @@
+version: '3.8'
+
+services:
+  python-pillow:
+    build: .
+    image: ${DOCKER_USER}/python-django-pillow:3.8.3-alphine
