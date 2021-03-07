@@ -4,7 +4,8 @@ requirements:
 - Django 3x
 - Pillow
 - Postgres
-
+- dj Auth
 
 you can pull via Docker HUB
 `docker pull juandisay/python-django-pillow:3.8.3-aphine`
+
