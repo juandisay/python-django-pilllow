@@ -1,0 +1,9 @@
+maintainers:
+ - juandisay
+ 
+features:
+ - comments
+ - pr_description_required
+ - hacktoberfest
+ - no_newbies
+ - release_notes
